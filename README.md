@@ -1,19 +1,12 @@
-### As an experienced risk analyst in the insurance industry, I have developed a keen eye for identifying patterns and trends that affect business outcomes. With 8 years of experience in this field, I have developed a deep understanding of the principles of risk analysis and the importance of data-driven decision-making.
-
-Now, I am looking to leverage my skills and experience in a new direction by transitioning to data analysis. I am excited about the opportunities that data analysis presents for making informed decisions that drive business success. With my strong analytical skills, attention to detail, and ability to work collaboratively with others, I am confident that I can make a meaningful contribution to any organization looking to leverage the power of data.
-
-If you are looking for a data analyst with a strong background in risk analysis and a track record of delivering results, I would love to connect with you. Let's work together to drive your business forward with data-driven insights and analysis. 
-<!--
-**MsKanyoko23/MsKanyoko23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hi, I’m @MsKanyoko
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning python for data analysis
+- 👯 I’m looking to collaborate on any data analytics related projects
+- 🤔 I’m looking for help with python
+- 💬 Ask me about anything data analysis
+- 📫 How to reach me: wambuikanyoko@gmail.com
+- 📫 My linkedIn:https://www.linkedin.com/in/annekanyoko2023/
+- ⚡ Fun fact: I enjoy solving puzzles in my free time
+If you are looking for a data analyst with a strong background in risk analysis and a track record of delivering results, I would love to connect with you. Let's work together to derive data-driven insights and analysis. 
 -->
