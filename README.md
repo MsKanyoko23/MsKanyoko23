@@ -8,6 +8,6 @@
 - 📫 How to reach me: wambuikanyoko@gmail.com
 - 📫 My linkedIn:https://www.linkedin.com/in/annekanyoko2023/
 - ⚡ Fun fact: I enjoy solving puzzles in my free time
-- 
+
 If you are looking for a data analyst with a strong background in risk analysis and a track record of delivering results, I would love to connect with you. Let's work together to derive data-driven insights and analysis. 
 -->
