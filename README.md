@@ -1,5 +1,5 @@
  Hi, I’m Anne
-- 🌱 I’m a data analyst who loves to create beautiful visuals to derive business insughts currently learning python for data analysis
+- 🌱 I’m a data analyst who loves to create beautiful visuals to derive business insights currently learning python for data analysis
 - 👯 I’m looking to collaborate on any data analytics related projects
 - 💬 Ask me about anything data analysis
 - 📫 How to reach me: wambuikanyoko@gmail.com
